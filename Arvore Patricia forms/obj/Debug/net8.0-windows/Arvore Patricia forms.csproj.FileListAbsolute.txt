@@ -1,0 +1,48 @@
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.exe
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.deps.json
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.runtimeconfig.json
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.dll
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.pdb
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore_Patricia_forms.Form1.resources
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.csproj.GenerateResource.cache
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.AssemblyInfoInputs.cache
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.AssemblyInfo.cs
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.csproj.CoreCompileInputs.cache
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.dll
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\refint\Arvore Patricia forms.dll
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.pdb
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.genruntimeconfig.cache
+C:\Users\CAIO\Documents\patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\ref\Arvore Patricia forms.dll
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore_Patricia_forms.Form1.resources
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.csproj.GenerateResource.cache
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.GeneratedMSBuildEditorConfig.editorconfig
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.AssemblyInfoInputs.cache
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.AssemblyInfo.cs
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.csproj.CoreCompileInputs.cache
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.dll
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\refint\Arvore Patricia forms.dll
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.pdb
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.exe
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.deps.json
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.runtimeconfig.json
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.dll
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.pdb
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.genruntimeconfig.cache
+H:\Arvore Patricia\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\ref\Arvore Patricia forms.dll
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.exe
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.deps.json
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.runtimeconfig.json
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.dll
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\bin\Debug\net8.0-windows\Arvore Patricia forms.pdb
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore_Patricia_forms.Form1.resources
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.csproj.GenerateResource.cache
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.AssemblyInfoInputs.cache
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.AssemblyInfo.cs
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.csproj.CoreCompileInputs.cache
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.dll
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\refint\Arvore Patricia forms.dll
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.pdb
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\Arvore Patricia forms.genruntimeconfig.cache
+C:\Users\CAIO\Downloads\Nova pasta (2)\Arvore Patricia forms\Arvore Patricia forms\obj\Debug\net8.0-windows\ref\Arvore Patricia forms.dll
